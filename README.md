@@ -1,8 +1,18 @@
-### Hi there 👋
+
+# Halo semua! 👋🏻
+
+Perkenalkan nama saya **Muhammad Zufar Syah**.
+
+Saya sekarang sedang mempelajari Materi **Belajar Dasar Git dengan GitHub** di [Dicoding](https://www.dicoding.com/).
+
+
+
+
+
 
 <!--
 **zufarsyah/zufarsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
