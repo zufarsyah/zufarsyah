@@ -3,7 +3,7 @@
 
 Perkenalkan nama saya **Muhammad Zufar Syah**.
 
-Saya sekarang sedang mempelajari Materi **Belajar Dasar Git dengan GitHub** di [Dicoding](https://www.dicoding.com/).
+
 
 <p align="left">
 <a href="https://github.com/zufarsyah">
